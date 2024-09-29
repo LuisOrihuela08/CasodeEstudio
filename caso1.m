@@ -1,4 +1,6 @@
 %DESARROLLO DEL CASO1
+
+%GRAFICO
 v_deseada = 35;
 x=50:0.01:150;
 f=((9.8.*x./15) .* (1 - exp(-(15 *9) ./x)));
